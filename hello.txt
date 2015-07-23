@@ -4,5 +4,4 @@ hello Katrina
 
 we are totally all over this!!
 
-
-i didnt pull == conflict!!
+we resolved our conflict
